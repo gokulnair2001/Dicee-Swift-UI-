@@ -1,6 +1,6 @@
 # Dicee-Swift-UI-
 * Made a repo to mention that I started Swift UI. 
-* Its very basic 😅 
+* The app generates two random dice image :).
 
 # Snapshot 📸
 
